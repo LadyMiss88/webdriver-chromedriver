@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>WebDriver.ChromeDriver</id>
-    <version>26.0.1383.1</version>
+    <version>26.14.313457.1</version>
     <title>WebDriver ChromeDriver</title>
     <authors>selenium</authors>
     <owners />
